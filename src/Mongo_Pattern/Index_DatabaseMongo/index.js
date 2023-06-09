@@ -15,7 +15,8 @@
         => Tối đa nên đánh 5 index
 
         => Mongodb chỉ hổ trợ cho phép 1024 byte trên ram để đánh index
-
+        => 1 document limited là 16 mb
+        => object nexted là 100 object
         **check index collection
         exp :
                 var exp = db.product.explain()
