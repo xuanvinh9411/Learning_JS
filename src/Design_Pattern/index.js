@@ -1,4 +1,5 @@
-/*                                                  DESIGN PATTERNS
+/** 
+ * !                                                 DESIGN PATTERNS
 Dễ bảo trì nâng cấp . 
 Mẫu thiết kế chung . Một biểu mẫu chung
 Người khách dễ kế thừa . 

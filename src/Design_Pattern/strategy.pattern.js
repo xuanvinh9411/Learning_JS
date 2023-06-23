@@ -1,5 +1,6 @@
-
-//================================Strategy pattern================================;
+/** 
+*!================================Strategy pattern================================;
+*/
 //  * Giảm giá khi người dùng đặt trước một sản phẩm của VINFAST 
 function preOrderPrice(originalPrice) {
     return originalPrice * 0.2;

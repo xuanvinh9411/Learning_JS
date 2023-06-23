@@ -31,4 +31,6 @@
         ** Trong mongo db cần truy phép chỉ mục bên trái  
 
         ** câu lệnh check storageSize : db.collectionName.stats({indexDetails : true})
+
+        mongo lưu 32T
 */
