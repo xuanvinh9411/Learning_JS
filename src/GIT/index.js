@@ -37,5 +37,5 @@
     git commit --amend -m "release v1.0.1"
 
     $ xóa commit ko reset
-    git reset --hard origin/develop
+     git reset --hard origin/develop
 */
