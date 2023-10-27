@@ -1,0 +1,1 @@
+# ánh xạ localhost vào network 127.0.0.1 vào container B2 có ip là 172.17.0.3 port 80 
