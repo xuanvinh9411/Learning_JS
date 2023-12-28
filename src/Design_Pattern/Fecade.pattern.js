@@ -10,7 +10,7 @@ class Discount {
     return value * 0.9;
    }
 }
-
+//money ship
 class Shipping {
     calc(){
      return 5;
@@ -30,9 +30,9 @@ class Shipping {
       this.fees = new Fees()
    }
    calc(price){
-      price = this.discount(price),
-      price = this.discount(shipping),
-      price += this.discount(fees)
+      price = this.discount.calc(price),
+      price = this.fees.calc(price),
+      price += this.shipping.calc(fees)
       return price
    }
  }

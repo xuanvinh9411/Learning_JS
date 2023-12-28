@@ -38,4 +38,8 @@
 
     $ xóa commit ko reset
      git reset --hard origin/develop
+    
+    $remove repositories 
+    rm -rf .git*
+
 */
